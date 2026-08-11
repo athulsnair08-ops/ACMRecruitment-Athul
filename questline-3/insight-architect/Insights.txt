@@ -1,0 +1,8 @@
+Insights
+Math scores: The histogram shows that most students' math scores are concentrated around the middle-to-upper range rather than at the extreme ends.
+Gender comparison: The average math scores of male and female students are relatively close, although one group performs slightly better.
+Test preparation: Students who completed the test preparation course generally have higher math scores than students who did not complete it.
+Score relationship: The scatter plot shows a positive relationship between math and reading scores. Students with higher math scores generally tend to have higher reading scores.
+Score correlation: The heatmap shows positive correlations between math, reading, and writing scores.
+Reading and writing: Reading and writing scores have a particularly strong relationship, suggesting that students who perform well in reading often also perform well in writing.
+Score variation: The box plot helps show the spread of math scores between students who completed test preparation and those who did not.
